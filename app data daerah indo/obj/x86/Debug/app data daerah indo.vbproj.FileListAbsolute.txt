@@ -1,0 +1,12 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\app data daerah indo\bin\Debug\app data daerah indo.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\app data daerah indo\bin\Debug\app data daerah indo.pdb
+C:\Users\ASUS\AppData\Local\Temporary Projects\app data daerah indo\bin\Debug\app data daerah indo.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\app data daerah indo\obj\x86\Debug\app_data_daerah_indo.Form1.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\app data daerah indo\obj\x86\Debug\app_data_daerah_indo.Resources.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\app data daerah indo\obj\x86\Debug\app data daerah indo.vbproj.GenerateResource.Cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\app data daerah indo\obj\x86\Debug\app data daerah indo.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\app data daerah indo\obj\x86\Debug\app data daerah indo.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\app data daerah indo\obj\x86\Debug\app data daerah indo.pdb
+C:\Users\ASUS\documents\visual studio 2010\Projects\app data daerah indo\app data daerah indo\obj\x86\Debug\app data daerah indo.exe
+C:\Users\ASUS\documents\visual studio 2010\Projects\app data daerah indo\app data daerah indo\obj\x86\Debug\app data daerah indo.xml
+C:\Users\ASUS\documents\visual studio 2010\Projects\app data daerah indo\app data daerah indo\obj\x86\Debug\app data daerah indo.pdb
